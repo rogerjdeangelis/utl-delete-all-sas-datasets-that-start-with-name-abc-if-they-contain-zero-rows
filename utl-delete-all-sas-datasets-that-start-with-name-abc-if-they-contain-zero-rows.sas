@@ -4,7 +4,7 @@ I thought it might be useful to post the status of proc datasets delete
 
  Two Solutions
 
-       a. sibgle DOSUBL packaged datastep
+       a. single DOSUBL packaged datastep
        b. single proc sql
 
 
