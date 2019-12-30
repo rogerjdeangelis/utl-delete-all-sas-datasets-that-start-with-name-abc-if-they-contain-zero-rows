@@ -6,7 +6,7 @@ Delete all sas datasets that start with name abc  if they contain zero rows
 
      Two Solutions
 
-           a. sibgle DOSUBL packaged datastep
+           a. single DOSUBL packaged datastep
            b. single proc sql
 
 
